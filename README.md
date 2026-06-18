@@ -173,24 +173,6 @@ An AI misuse detection platform built end-to-end in under 24 hours at CDGI's Hac
 
 ---
 
-## 🎓 Education
-
-```
-🎓  B.Tech in Computer Science                    2023 – 2027
-    Acropolis Institute of Technology & Research
-    CGPA: 7.29 | Indore, M.P.
-
-📗  Class XII (CBSE)                              2023
-    New Green Field Public Academy
-    72% | Indore, M.P.
-
-📘  Class X (CBSE)                                2021
-    New Green Field Public Academy
-    90.4% | Indore, M.P.
-```
-
----
-
 <div align="center">
 
 ### 💬 Random Dev Quote
