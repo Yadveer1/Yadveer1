@@ -11,13 +11,7 @@
 <a href="https://github.com/Yadveer1">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D8FF&center=true&vCenter=true&width=640&lines=I+build+products+that+real+users+depend+on;4%2C000%2B+students+on+a+portal+I+led+the+frontend+for;Cut+admin+workload+by+87.5%25+%E2%80%94+~35+hrs%2Fweek;Open+to+SDE+%2F+Full-Stack+roles+%C2%B7+Class+of+2027" alt="Typing SVG"/>
 </a>
-
 <br/>
-
-🟢 **Open to work** · SDE / Full-Stack / Frontend roles · Graduating 2027 · Open to relocation & remote
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-2-0-sg8i.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadveersingh/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadveersinghpawar12345@gmail.com)
