@@ -1,191 +1,155 @@
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███████╗███████╗██████╗
-╚██╗ ██╔╝██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗
- ╚████╔╝ ███████║██║  ██║██║   ██║█████╗  █████╗  ██████╔╝
-  ╚██╔╝  ██╔══██║██║  ██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██╔══██╗
-   ██║   ██║  ██║██████╔╝ ╚████╔╝ ███████╗███████╗██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═════╝   ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<a href="https://github.com/Yadveer1">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=54&duration=2200&pause=100000&color=00D8FF&center=true&vCenter=true&repeat=false&width=760&height=90&lines=Yadveer+Singh" alt="Yadveer Singh"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Building+at+Scale+%E2%80%94+4%2C000%2B+Users;200%2B+LeetCode+Problems+Solved;Shipping+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<sub><b>FULL-STACK ENGINEER &nbsp;·&nbsp; MERN</b></sub>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadveersingh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-0-sg8i.onrender.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadveersinghpawar12345@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+<a href="https://github.com/Yadveer1">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D8FF&center=true&vCenter=true&width=640&lines=I+build+products+that+real+users+depend+on;4%2C000%2B+students+on+a+portal+I+led+the+frontend+for;Cut+admin+workload+by+87.5%25+%E2%80%94+~35+hrs%2Fweek;Open+to+SDE+%2F+Full-Stack+roles+%C2%B7+Class+of+2027" alt="Typing SVG"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yadveer1&color=00d8ff&style=flat-square&label=Profile+Views)
+<br/>
+
+🟢 **Open to work** · SDE / Full-Stack / Frontend roles · Graduating 2027 · Open to relocation & remote
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-2-0-sg8i.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadveersingh/)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadveersinghpawar12345@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode_200%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yadveer)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👋 About Me
 
-```javascript
-const yadveer = {
-  role:       "Full-Stack Web Developer",
-  stack:      ["MongoDB", "Express.js", "React", "Node.js"],
-  university: "Acropolis Institute of Technology & Research (2023–2027)",
-  location:   "Indore, Madhya Pradesh 🇮🇳",
-  focus:      ["Scalable Architecture", "RESTful APIs", "Responsive UI"],
-  currentlyDoing: "Building production-grade apps & grinding LeetCode",
-  funFact:    "Shipped a portal used by 4,000+ students as a sophomore 🎓"
-};
-```
+I'm a full-stack engineer (B.Tech, **Acropolis Institute of Technology & Research**, 2023–2027, Indore 🇮🇳) who ships production software, not just tutorials. As a sophomore, I led the frontend for a campus recruitment portal now used by **4,000+ students and 100+ faculty**, and it removed **~35 hours/week** of manual admin work.
+
+I care about clean architecture, fast and accessible UI, and measurable outcomes.
 
 ---
 
-## 🏆 Impact Highlights
+## 📈 Impact at a Glance
 
 <div align="center">
 
-| 🎯 Achievement | 📊 Impact |
-|---|---|
-| **Acropolis CDC Portal** | 4,000+ students · 100+ faculty · live in production |
-| **Admin Time Saved** | 87.5% reduction → ~35 hours/week reclaimed |
-| **Report Generation** | Hours → Minutes |
-| **LeetCode** | 200+ problems solved |
-| **Hackwave Hackathon** | Built AI misuse detection UI in 24 hours |
+| | Metric | Context |
+|:-:|:--|:--|
+| 🎓 | **4,000+ users** | Acropolis CDC Portal, live in production |
+| ⏱️ | **87.5% less admin work** | ~35 hrs/week reclaimed for the placement cell |
+| 📄 | **Hours → minutes** | Automated report generation |
+| 🧠 | **200+ problems** | Solved on LeetCode (DSA & problem solving) |
+| 🏁 | **24-hour build** | AI-misuse detection dashboard at Hackwave 2025 |
 
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🏫 Acropolis CDC Portal &nbsp;·&nbsp; `Production` `Lead Frontend`
+Campus recruitment platform for **4,000+ students and 100+ faculty**, with role-based workflows covering the full placement cycle.
+
+- **Outcome:** 87.5% reduction in admin workload; reports now generated in minutes, not hours
+- **What I owned:** frontend architecture, state management, role-based UI, REST API integration
+- **Stack:** `React` `Zustand` `Tailwind` `Spring Boot` `REST APIs`
+- 🔗 [Live](https://cdc.acropolis.teamzemo.tech)
+
+### 🔗 Connectify &nbsp;·&nbsp; `Full-Stack` `Solo`
+Social networking app with profiles, posts, comments, and connections, plus **one-click auto-generated resumes** from your profile.
+
+- **Highlights:** clean REST API design, auth, resume generation from user data
+- **Stack:** `React` `Node.js` `Express` `MongoDB`
+
+### 🛡️ Aegis Web (Hackwave 2025) &nbsp;·&nbsp; `Hackathon` `24 hrs`
+AI misuse detection platform with a real-time visualization and alerts dashboard, built end-to-end in under 24 hours.
+
+- **Highlights:** rapid prototyping, fully responsive UI under time pressure
+- **Stack:** `React` `Vite` `Tailwind CSS`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
 <table>
-<tr>
-<td width="50%">
-
-### 🏫 Acropolis CDC Portal
-> **Team Project · Nov 2025 · Production**
-
-A full-stack campus recruitment portal serving Acropolis Institute — built and deployed with real-world scale in mind.
-
-- 🧑‍🎓 **4,000+ students** · 100+ faculty members
-- ⚡ **87.5% reduction** in admin workload (~35 hrs/week saved)
-- 📄 Report generation slashed from **hours → minutes**
-- 🔐 Role-based workflows for complex recruitment processes
-- **Role:** Lead Frontend Engineer
-
-**Stack:** `React` `Zustand` `Spring Boot` `REST APIs`
-
-</td>
-<td width="50%">
-
-### 🔗 Connectify — Social Networking App
-> **Personal Project · May 2025**
-
-A full-featured social platform with a unique auto-resume generation twist.
-
-- 👤 User profiles, posts, comments & connection management
-- 📄 **Auto resume generation** — download your profile as a resume instantly
-- 🔌 Clean REST API with Node.js/Express backend
-- ⚛️ React frontend with smooth UX
-
-**Stack:** `React` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛡️ Aeigies Web — Hackwave 2025
-> **Team Hackathon · Aug 2025 · 24 Hours**
-
-An AI misuse detection platform built end-to-end in under 24 hours at CDGI's Hackwave Hackathon.
-
-- 🤖 Real-time misuse data visualization & alerts dashboard
-- ⚡ Rapid prototyping with React + Vite
-- 📱 Fully responsive UI under strict time constraints
-
-**Stack:** `React` `Vite` `Tailwind CSS`
-
-</td>
-<td width="50%">
-
-### 💡 What's Next?
-> Always building something new...
-
-- 🔭 Exploring deeper backend architecture patterns
-- 🧩 Strengthening DSA fundamentals on LeetCode
-- 🌐 Contributing to open source
-
-*Check my pinned repositories below ↓*
-
-</td>
-</tr>
+  <tr>
+    <td align="right" width="150"><b>Languages</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,vite,zustand" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Database</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=mongodb" alt="Database"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools"/></td>
+  </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yadveer1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d8ff&icon_color=00d8ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadveer1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yadveer1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF)](https://git.io/streak-stats)
+<sub>Also: **shadcn/ui** · **REST API design** · **DSA** · **OOP** · **System Design fundamentals**</sub>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Currently
 
-[![Yadveer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yadveer1&bg_color=0d1117&color=00d8ff&line=00d8ff&point=ffffff&area=true&area_color=00d8ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🔭 Going deeper on backend architecture (caching, scaling, auth patterns)
+- 🧩 Growing my DSA fundamentals, one LeetCode problem at a time
+- 🌐 Preparing to contribute to open source
+- 💼 Looking for an SDE / Full-Stack role where I can own features end to end
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yadveer1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff&icon_color=00d8ff&count_private=true&include_all_commits=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yadveer1&show_icons=true&hide_border=true&title_color=0077b5&icon_color=0077b5&count_private=true&include_all_commits=true"/>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yadveer1&show_icons=true&theme=tokyonight&hide_border=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadveer1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadveer1&layout=compact&hide_border=true&title_color=0077b5"/>
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadveer1&layout=compact&theme=tokyonight&hide_border=true"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Yadveer1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Yadveer1&hide_border=true&ring=0077B5&fire=FF6B6B&currStreakLabel=0077B5"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Yadveer1&theme=tokyonight&hide_border=true"/>
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🤝 Let's Talk
 
----
+If you're hiring for a **Full-Stack / Frontend / SDE** role, I'd love to chat.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-*If something I built helped you, consider ⭐ starring the repo!*
-
-**Let's connect and build something great together 🚀**
+📧 [yadveersinghpawar12345@gmail.com](mailto:yadveersinghpawar12345@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/yadveersingh/) &nbsp;·&nbsp; 🌐 [Portfolio](https://portfolio-2-0-sg8i.onrender.com/)
 
 </div>
